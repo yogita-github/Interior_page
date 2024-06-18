@@ -1,3 +1,8 @@
+It is an assignement of a landing page of website in React
+
+![Screenshot (3087)](https://github.com/yogita-github/Interior_page/assets/103029645/1bd600b8-426d-407a-b76f-22d67646ccf8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
